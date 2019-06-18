@@ -38,8 +38,8 @@ end
 
 describe "order_of_operations" do
   it "uses parenthesis to set the order of operations properly" do
-    expect(order_of_operation(5, 4, 10, 1)).to eq(18)
+    expect(order_of_operation(5, 4, 10, 2)).to eq(3)
   end
 end
 
-__ + (( num1 * num2 ) /  )
+
