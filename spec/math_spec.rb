@@ -38,7 +38,7 @@ end
 
 describe "order_of_operations" do
   it "uses parenthesis to set the order of operations properly" do
-    expect(order_of_operation(5, 4, 23, 83)).to eq(18)
+    expect(order_of_operation(5, 4, 10, 1)).to eq(18)
   end
 end
 
