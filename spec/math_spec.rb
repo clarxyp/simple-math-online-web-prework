@@ -42,4 +42,4 @@ describe "order_of_operations" do
   end
 end
 
-__ + (( num1 * num2 ) / __/23 )
+__ + (( num1 * num2 ) /  )
